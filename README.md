@@ -4,13 +4,13 @@ This is a solution to the [Shortly URL shortening API Challenge challenge on Fro
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+- [Frontend Mentor - Shortly URL shortening API Challenge solution](#frontend-mentor---shortly-url-shortening-api-challenge-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+  - [My process](#my-process)
+    - [Built with](#built-with)
 
 
 ## Overview
@@ -31,11 +31,6 @@ Users should be able to:
 <img src="images/URLShortener2.png">
 
 
-### Links
-
-- [Solution URL](https://www.frontendmentor.io/solutions/desktop-first-using-vanilla-js-LDaARs0zE)
-- [Live Site URL](https://riyakushwaha.github.io/URLShortener/)
-- [Video Link](https://lnkd.in/ghTjUGk)
 
 ## My process
 
@@ -47,8 +42,3 @@ Users should be able to:
 - CSS Grid
 - Desktop-first workflow
 
-## Author
-
-- LinkedIn - [Riya Kushwaha](https://www.linkedin.com/in/riyakushwaha)
-- Frontend Mentor - [@riyakushwaha](https://www.frontendmentor.io/profile/riyakushwaha)
-- Twitter - [@riyakushwaha20](https://www.twitter.com/riyakushwaha20)
